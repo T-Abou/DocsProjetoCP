@@ -1,0 +1,30 @@
+Tiago Abou Hamia França
+RM:562349
+
+
+Registro do total de lixo coletado por dia no caminhão
+- ID caminhão
+- Data 
+- Capacidade utilizada
+
+Cadastro dos caminhões
+- ID do caminhão
+- Placa do veiculo
+- Capacidade 
+- Modelo 
+
+Cadastro de ruas
+- Nome da rua
+- Bairro
+- Cidade
+
+Definição de rota que cada caminhão deve percorrer no dia
+- Distancia entre o ponto inicial e o local da coleta
+- Lista/instrução das ruas a serem percorridas
+
+Registro do total de lixo coletado por dia (todos os caminhões juntos)
+- Data
+- ID caminhão
+- Capacidade
+- Somas das informações
+
